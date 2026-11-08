@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.crochet.app-mergeDebugResources-2:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Pedro Esquea\\.gradle\\caches\\transforms-4\\e2d2d39ae9ac66a5708d5fab39b8a876\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
